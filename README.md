@@ -1,6 +1,7 @@
-*Deep Learning in Excel*
 
-**Equations and Loss Curve**
+**Deep Learning in Excel**
+
+***Equations and Loss Curve***
 
 ![image](images/p2.png)
 
